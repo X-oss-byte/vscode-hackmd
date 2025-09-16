@@ -338,7 +338,7 @@
     "websocket": "^1.0.34"
   },
   "dependencies": {
-    "@hackmd/api": "2.4.0",
+    "@hackmd/api": "2.5.0",
     "@types/mermaid": "^9.1.0",
     "bootstrap3": "^3.3.5",
     "markdown-it-abbr": "^1.0.4",
